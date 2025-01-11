@@ -1,0 +1,6 @@
+site_name: ScratchYG
+nav:
+  - Home: home.md
+  - Examples: examples.md
+  - Installation: installation.md
+theme: readthedocs
