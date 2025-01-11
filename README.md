@@ -1,2 +1,2 @@
-# wiki
+# docs
 Документация расширения ScratchYG
