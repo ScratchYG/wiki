@@ -1,7 +1,7 @@
 site_name: ScratchYG
 nav:
-  - Home: home.md
-  - Examples: examples.md
-  - Installation: installation.md
+  - Главная: home.md
+  - Примеры: examples.md
+  - Установка: installation.md
 theme:
   name: material
