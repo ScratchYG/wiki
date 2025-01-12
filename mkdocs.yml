@@ -1,17 +1,16 @@
 site_name: ScratchYG
 nav:
   - Главная: index.md
-  - ScratchYG SDK:
-    - Примеры: examples.md
-    - Установка: installation.md
-    - Методы SDK: 
-      - Инициализация: sdk/initialization.md
-      - Реклама: sdk/ads.md
-      - Облачные сохранения: sdk/cloud_saving.md
-      - Оценка игры: sdk/game_rating.md
-      - Удаленная конфигурация: sdk/flags.md
-      - Серверное время: sdk/server_time.md
-      - Информация об устройстве пользователя: sdk/device_info.md
+  - Примеры: examples.md
+  - Установка: installation.md
+  - Методы SDK: 
+    - Инициализация: sdk/initialization.md
+    - Реклама: sdk/ads.md
+    - Облачные сохранения: sdk/cloud_saving.md
+    - Оценка игры: sdk/game_rating.md
+    - Удаленная конфигурация: sdk/flags.md
+    - Серверное время: sdk/server_time.md
+    - Информация об устройстве пользователя: sdk/device_info.md
   - Упаковка игры: packaging.md
 theme:
   name: material

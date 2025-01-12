@@ -10,3 +10,8 @@ TODO
 </pre>
 
 Используйте <code class="sb">Встроить SDK Яндекс.Игр</code> ...
+
+# <code class="sb">Установить переменную [NAME] в значение [VALUE]</code>
+## <code class="sb">Установить переменную [NAME] в значение [VALUE]</code>
+### <code class="sb">Установить переменную [NAME] в значение [VALUE]</code>
+#### <code class="sb">Установить переменную [NAME] в значение [VALUE]</code>
