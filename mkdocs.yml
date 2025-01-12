@@ -14,7 +14,7 @@ nav:
   - Упаковка игры: packaging.md
 theme:
   name: material
-  logo: images/logo.png
+  logo: images/icon.png
   palette:
     primary: custom
 markdown_extensions:
