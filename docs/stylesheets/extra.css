@@ -3,3 +3,8 @@
   --md-primary-fg-color--light: #5b24d1;
   --md-primary-fg-color--dark:  #3e139c;
 }
+.scratchblocks {
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: #efefef;
+}
