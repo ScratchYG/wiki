@@ -16,6 +16,10 @@ theme:
   name: material
   palette:
     primary: custom
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 extra_javascript:
   - javascripts/scratchblocks.min.js
 extra_css:
