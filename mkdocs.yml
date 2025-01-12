@@ -11,5 +11,6 @@ nav:
     - Удаленная конфигурация: sdk/flags.md
     - Серверное время: sdk/server_time.md
     - Информация об устройстве пользователя: sdk/device_info.md
+  - Упаковка игры: packaging.md
 theme:
   name: material
