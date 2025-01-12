@@ -15,6 +15,7 @@ nav:
 theme:
   name: material
   logo: images/icon.png
+  favicon: images/icon.png
   palette:
     - scheme: default
       primary: custom
