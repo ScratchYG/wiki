@@ -3,5 +3,13 @@ nav:
   - Главная: index.md
   - Примеры: examples.md
   - Установка: installation.md
+  - Методы SDK: 
+    - Инициализация: sdk/initialization.md
+    - Реклама: sdk/ads.md
+    - Облачные сохранения: sdk/cloud_saving.md
+    - Оценка игры: sdk/game_rating.md
+    - Удаленная конфигурация: sdk/flags.md
+    - Серверное время: sdk/server_time.md
+    - Информация об устройстве пользователя: sdk/device_info.md
 theme:
   name: material
