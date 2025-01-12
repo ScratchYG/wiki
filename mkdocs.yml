@@ -16,7 +16,17 @@ theme:
   name: material
   logo: images/icon.png
   palette:
-    primary: custom
+    - scheme: default
+      primary: custom
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
 markdown_extensions:
   - admonition
   - pymdownx.details
