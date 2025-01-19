@@ -1,0 +1,16 @@
+:root {
+  --md-primary-fg-color:        #4f1bbe;
+  --md-primary-fg-color--light: #5b24d1;
+  --md-primary-fg-color--dark:  #3e139c;
+}
+pre.scratchblocks {
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: var(--md-scratchblocks-bg-color);
+}
+[data-md-color-scheme="default"] {
+  --md-scratchblocks-bg-color: #efefef;
+}
+[data-md-color-scheme="slate"] {
+  --md-scratchblocks-bg-color: #33333C;
+}
