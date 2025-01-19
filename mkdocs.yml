@@ -5,11 +5,12 @@ nav:
   - Установка: installation.md
   - Методы SDK: 
     - Инициализация: sdk/initialization.md
-    - Реклама: sdk/ads.md
     - Облачные сохранения: sdk/cloud_saving.md
+    - Реклама: sdk/ads.md
     - Оценка игры: sdk/game_rating.md
+    - Устройство пользователя: sdk/device_info.md
     - Удаленная конфигурация: sdk/flags.md
-    - Информация об устройстве пользователя: sdk/device_info.md
+    - Серверное время: sdk/server_time.md
   - Упаковка игры: packaging.md
 theme:
   name: material
